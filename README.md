@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a student with a passion for solving real-worl
 
 ## 💡 About Me
 
-- 🎓 I'm currently studying Computer Science and Ai at [**Buisness and Technology University**](https://btu.edu.ge/en/home-english/)
+- 🎓 I'm currently studying Computer Science and AI at [**Buisness and Technology University**](https://btu.edu.ge/en/home-english/)
 - 💻 I work with: **Python**
 - 🌱 Currently learning: **Javascript and Python**
 - 📫 Reach me on : [Gmail](qarcivadze.salome6@gmail.com) or [LinkecIn](https://www.linkedin.com/in/salome-kartsivadze-833144346/)
@@ -16,8 +16,7 @@ Welcome to my GitHub profile! I'm a student with a passion for solving real-worl
 
 ## 🧠 Projects I'm Proud Of
 
-- **Cheat sheet for "Kalakobana"**  
-  🔗 [https://github.com/Skartz27/-Shpargalka_kalakobanastvis]
+- [**Cheat sheet for "Kalakobana"**](https://github.com/Skartz27/-Shpargalka_kalakobanastvis)
 
 
 ## 📈 GitHub Stats
