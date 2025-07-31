@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a student with a passion for solving real-worl
 
 ## 🔧 Tools & Technologies
 
-![Languages](https://skillicons.dev/icons?i=python,java,javascript,html,css,sql,linux,git,github)
+![Languages](https://skillicons.dev/icons?i=python)
 
 ## 🧠 Projects I'm Proud Of
 
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a student with a passion for solving real-worl
 
 ## 📈 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+(https://github-readme-stats.vercel.app/api?username=Skartz27&show_icons=true&theme=default)
 
 ---
 
