@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a student with a passion for solving real-worl
 
 ## 📈 GitHub Stats
 
-[![Salome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skartz27)](https://github.com/Skartz27/github-readme-stats)
+[![Salome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skartz27&show_icons=true&theme=synthwave)
 ---
 
 Thanks for stopping by! 😊
