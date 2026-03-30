@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a student with a passion for solving real-world problems with code and AI .
 
 # 💫 About Me:
-🎓 I'm currently studying Computer Science and AI at [**Buisness and Technology University**](https://btu.edu.ge/en/home-english/)<br>🌱 I’m currently learning Javascript and Python<br>💬 Ask me about Music and Literature<br>
+🎓 I'm currently studying Computer Science and AI at [**Buisness and Technology University**](https://btu.edu.ge/en/home-english/)<br>🌱 I’m currently learning machine learning and data analysis <br>💬 Ask me about Music and Literature<br>
 
 
 ## 🌐 Socials:
